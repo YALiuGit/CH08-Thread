@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-work/CH08-Thread/0801_DateTimePicker/src/main/res/layout/m0801.xml" value="0.3115423901940756" />
+        <entry key="..\:/android-work/CH08-Thread/0802_Timer/src/main/res/layout/m0802.xml" value="0.3115423901940756" />
+        <entry key="..\:/android-work/CH08-Thread/0802a_Alerm/src/main/res/layout/m0802.xml" value="0.3115423901940756" />
+        <entry key="..\:/android-work/CH08-Thread/0802a_Alerm/src/main/res/layout/m0802a.xml" value="0.3115423901940756" />
+        <entry key="..\:/android-work/CH08-Thread/0802b_Alerm_reset/src/main/res/layout/m0802a.xml" value="0.3074074074074074" />
+        <entry key="..\:/android-work/CH08-Thread/0802t_Test/src/main/res/layout/m0802.xml" value="0.3115423901940756" />
+        <entry key="..\:/android-work/CH08-Thread/0803_ProgressBar/src/main/res/layout/m0803.xml" value="0.3115423901940756" />
+        <entry key="..\:/android-work/CH08-Thread/0804_Handler_Image/src/main/res/layout/m0804.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH08-Thread/0805_SeekBar_and_RatingBar/src/main/res/layout/m0805.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH08-Thread/0806_SideMenuDrawer/src/main/res/layout/leftmenu.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH08-Thread/0806_SideMenuDrawer/src/main/res/layout/m0806.xml" value="0.3177083333333333" />
+        <entry key="..\:/android-work/CH08-Thread/app/src/main/res/layout/activity_main.xml" value="0.2994791666666667" />
+        <entry key="..\:/android-work/CH08-Thread/m0807_navmenu/src/main/res/layout/content_m0807.xml" value="0.3177083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
